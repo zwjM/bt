@@ -11,7 +11,7 @@ matplotlib
 all datas we provided are in the ./data 
 
 ## start tutorial
-you can see in the demo.py or demo.ipynb
+you can see in the demo.py or demo.ipynb\n
 we recommend to do factor research using jupyter notebook (demo.ipynb)
 
 ## result
